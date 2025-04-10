@@ -1,0 +1,9 @@
+# Learn how to configure this here:
+# https://trunkrs.dev/configuration/
+
+[build]
+# Build in release mode.
+# Difference (as of commit b491bde)
+# Unoptamized wasm: 1.0 MB
+# Optimized wasm: 287.7 kB
+release = true
