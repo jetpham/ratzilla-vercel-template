@@ -436,7 +436,7 @@ dependencies = [
 ]
 
 [[package]]
-name = "ratzilla-vercel"
+name = "ratzilla-vercel-template"
 version = "0.1.0"
 dependencies = [
  "color-eyre",

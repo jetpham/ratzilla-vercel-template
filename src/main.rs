@@ -40,7 +40,7 @@ impl App {
     fn render(&self, frame: &mut Frame) {
         let counter = self.counter.borrow();
         let block = Block::bordered()
-            .title("ratzilla-vercel")
+            .title("ratzilla-vercel-template")
             .title_alignment(Alignment::Center)
             .border_type(BorderType::Rounded);
 
